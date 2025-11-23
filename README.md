@@ -23,9 +23,8 @@ These images show successful execution of API requests and test assertions.
 ---
 
 ### ✅ Test Result Screenshot 1  
-![Test Results 1](TestResults/testresult1.png)  
-
+![Test Results 1](TestResult/TestResult_1.png)
 ---
 
 ### ✅ Test Result Screenshot 2  
-![Test Results 2](TestResults/testresult2.png)
+![Test Results 2](TestResult/TestResult_2.png)
